@@ -1,0 +1,24 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "services": {
+      "dev.ucp.shopping": {
+        "version": "2026-08-25",
+        "spec": "https://ucp.dev/2026-08-25/specification/overview/",
+        "transport": "mcp"
+      }
+    },
+    "capabilities": {},
+    "payment_handlers": {}
+  },
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "eUhL35WlJM3cLF_OSBMBQD7siHx05UKPooSWht-mA1s",
+      "y": "Afa02-PzwjqO9fLguUBLI2Jp0m-isuKGyMimdAPe8ic",
+      "alg": "ES256",
+      "use": "sig"
+    }
+  ]
+}
